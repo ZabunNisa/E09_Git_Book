@@ -1,8 +1,12 @@
-This is the eidtors notes
+This is the edtors notes
 
 Chapter 1 is a interesting intro
 
-for this books so far
+for this book so far
 Keep working on chapter 2
+
+More fun
+More Java and plenty of Cava!
+
 
 
